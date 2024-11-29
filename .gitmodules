@@ -1,6 +1,6 @@
 [submodule "keeper-app-backend"]
 	path = keeper-app-backend
-	url = ./keeper-app-backend
+	url = https://github.com/Henman2/keeper-app-backend.git
 [submodule "keeper-app-frontend"]
 	path = keeper-app-frontend
-	url = ./keeper-app-frontend
+	url = https://github.com/Henman2/keeper-app-frontend.git
