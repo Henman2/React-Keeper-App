@@ -1,0 +1,6 @@
+[submodule "keeper-app-backend"]
+	path = keeper-app-backend
+	url = ./keeper-app-backend
+[submodule "keeper-app-frontend"]
+	path = keeper-app-frontend
+	url = ./keeper-app-frontend
